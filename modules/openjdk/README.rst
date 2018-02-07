@@ -12,4 +12,11 @@ Source
 
 https://adoptopenjdk.net/releases.html?variant=openjdk8#ppc64le_linux
 
+References
+----------
+
+Building OpenJDK general instructions:
+        https://github.com/dmlloyd/openjdk/blob/jdk/jdk/doc/building.md
+
+
 
